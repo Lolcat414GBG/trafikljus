@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    margin: 10px auto;
+}
+
+.red {
+    border: 10px solid darkred;
+    background: linear-gradient(180deg, #f50511 50%, rgba(240, 127, 133, 1) 50%);
+}
+
+.yellow {
+    border: 10px solid #b5c179;
+    background: linear-gradient(90deg, #f5f242 50%, rgba(0, 0, 0, 0) 50%), linear-gradient(180deg, #f5f242 50%, rgba(245, 244, 169, 1) 50%);
+    border-radius: 100px;
+}
+
+.green {
+    border: 10px solid darkgreen;
+    background: linear-gradient(180deg, #56a12b 50%, rgba(0, 0, 0, 0) 50%), linear-gradient(270deg, #56a12b 50%, rgba(173, 224, 144, 1) 50%);
+}
