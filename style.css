@@ -29,3 +29,7 @@ body {
     border: 10px solid darkgreen;
     background: linear-gradient(180deg, #56a12b 50%, rgba(0, 0, 0, 0) 50%), linear-gradient(270deg, #56a12b 50%, rgba(173, 224, 144, 1) 50%);
 }
+
+footer {
+    padding: 20px 0;
+}
